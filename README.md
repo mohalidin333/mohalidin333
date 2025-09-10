@@ -13,7 +13,7 @@ I'm a **Full-Stack Developer & Content Creator** with a Computer Science backgro
 ---
 
 ## 📂 Featured Projects  
-- **[Toover](https://github.com/)** → A growing platform of **utility tools** designed to solve problems across different industries.  
+- **[Toover](https://mohalidin-lidasan.vercel.app/)** → A growing platform of **utility tools** designed to solve problems across different industries.  
 - **Freelance Projects** → Delivered **10+ full-stack applications** for startups and individuals, focusing on **usability and results-driven solutions**.  
 
 ---
@@ -24,9 +24,12 @@ I enjoy **building solutions that matter**—whether that’s through coding, sh
 ---
 
 ## 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Twitter](https://twitter.com/)  
-- [Portfolio/Website](https://)  
+- [LinkedIn](https://www.linkedin.com/in/mohalidin-lidasan-612509274/)
+- [Facebook](https://www.facebook.com/profile.php?id=61573997590457)
+- [X](https://x.com/mohalidintech)
+- [Instagram](https://www.instagram.com/mohalidintech/)
+- [Tiktok](https://www.tiktok.com/@mohalidintech)
+- [Portfolio](https://mohalidin-lidasan.vercel.app/)
 
 ---
 
