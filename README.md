@@ -32,15 +32,4 @@ I enjoy **building solutions that matter**—whether that’s through coding, sh
 
 ## 🎯 Fun Facts  
 - I’m the founder of **Toover**, my own SaaS-style platform.  
-- Outside of coding, I enjoy **content creation, exploring AI trends, and finding tools that make life easier**.  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10)  
-
----
+- Outside of coding, I enjoy **content creation, exploring AI trends, and finding tools that make life easier**.
