@@ -26,7 +26,7 @@ I enjoy **building solutions that matter**—whether that’s through coding, sh
 ## 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/mohalidin-lidasan-612509274/)
 - [Facebook](https://www.facebook.com/profile.php?id=61573997590457)
-- [Twitter / X](https://x.com/mohalidintech)
+- [Twitter (X)](https://x.com/mohalidintech)
 - [Instagram](https://www.instagram.com/mohalidintech/)
 - [Tiktok](https://www.tiktok.com/@mohalidintech)
 - [Portfolio](https://mohalidin-lidasan.vercel.app/)
